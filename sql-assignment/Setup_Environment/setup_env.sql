@@ -1,4 +1,4 @@
-sql assignment week2
+# sql assignment week2
 
 
 ## 1. Setup Environment
